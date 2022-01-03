@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "complate-fractal": "0.15.0"
+    "complate-fractal": "0.15.0",
+    "pirates": "4.0.1"
   }
 }
