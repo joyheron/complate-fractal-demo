@@ -1,0 +1,14 @@
+{
+  "name": "complate-fractal-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "fractal start --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "complate-fractal": "0.15.0"
+  }
+}
